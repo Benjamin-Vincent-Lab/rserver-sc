@@ -1,4 +1,4 @@
-FROM benjaminvincentlab/rserver:3.6.1.0
+FROM benjaminvincentlab/rserver:3.6.1.3
 # OS: Debian GNU/Linux 9 (stretch)
 
 
