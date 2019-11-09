@@ -14,10 +14,10 @@ docker build -t benjaminvincentlab/rserver-sc:3.6.1.0 .
 ```bash
 docker run -e PASSWORD=12qwaszx --rm -p 8787:8787 -v ~/Desktop:/home/rstudio   benjaminvincentlab/rserver-sc:3.6.1.0 8787
 ```
-Then direct browser to localhost:8787.
+Then direct browser to localhost:8787.  
 
 ## Tagging
-v.w.x.y.z
-vwx is the version of R.
-w is the version of the rserver it uses.
-z is the version of this Dockerfile.
+v.w.x.y.z  
+vwx is the version of R.  
+w is the version of the rserver it uses.  
+z is the version of this Dockerfile.  
