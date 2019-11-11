@@ -6,7 +6,7 @@ This environment sets up the IDE and R-Packages needed to do analyses and report
 
 
 ## DockerHub link:  
-https://hub.docker.com/repository/docker/benjaminvincentlab/rserver  
+https://hub.docker.com/repository/docker/benjaminvincentlab/rserver-sc   
 
 
 ## What's with the rserver_handler.sh
