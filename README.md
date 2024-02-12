@@ -1,5 +1,6 @@
 # Basic RServer for the Vincent Lab
 
+* Note this repository was originally at: https://github.com/pirl-unc/rserver-sc - moved 2/12/2024
 
 ## Introduction  
 This environment sets up the IDE and R-Packages needed to do analyses and reports for the Vincent Lab.  
